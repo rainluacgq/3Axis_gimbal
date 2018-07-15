@@ -1,0 +1,12 @@
+#ifndef SERIALPORT
+#define SERIALPORT
+
+#include <QObject>
+
+class SerialPort
+{
+public:
+    SerialPort();
+};
+
+#endif // SERIALPORT

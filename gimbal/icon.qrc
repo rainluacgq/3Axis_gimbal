@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/file">
+        <file>image/timg_爱奇艺.jpg</file>
+        <file>image/Aircraft_safari_24px_522111_easyicon.net.ico</file>
+        <file>image/Paper_airplane_24px_1181455_easyicon.net.ico</file>
+    </qresource>
+</RCC>
