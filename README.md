@@ -14,3 +14,6 @@
 ①姿态解算；
 ②pid，spwm控制；
 
+## 项目主页
+欢迎一起探讨！
+[基于Storm32bgc开发的三轴云台](https://rainlua.wordpress.com/2018/07/14/%e5%9f%ba%e4%ba%8esortm32bgc%e7%9a%84%e4%b8%89%e8%bd%b4%e4%ba%91%e5%8f%b0%e5%bc%80%e5%8f%91/)
